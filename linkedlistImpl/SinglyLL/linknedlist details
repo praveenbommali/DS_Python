@@ -1,0 +1,19 @@
+
+insert operations:
+
+1) insert at beginning
+-> define the new node
+-> new node next assign  to the head
+-> make new node as head
+
+2) insert at end
+-> define the new node
+-> assign the head to temp
+-> iterate over the node till next node null
+-> new node assign to the temp node
+
+3) insert at between
+-> define the new node
+-> previous node next assign to the new node
+-> new node next
+
