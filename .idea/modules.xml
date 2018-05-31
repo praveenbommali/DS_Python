@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../DS_Python/.idea/DS_Python.iml" filepath="$PROJECT_DIR$/../DS_Python/.idea/DS_Python.iml" />
       <module fileurl="file://$USER_HOME$/Documents/DS_STUFF/Data-Structures-using-Python-master/.idea/Data-Structures-using-Python-master.iml" filepath="$USER_HOME$/Documents/DS_STUFF/Data-Structures-using-Python-master/.idea/Data-Structures-using-Python-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MachineLearning.iml" filepath="$PROJECT_DIR$/.idea/MachineLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/DS_STUFF/LeetcodeSolutionPython/.idea/leetcode-python-master.iml" filepath="$USER_HOME$/Documents/DS_STUFF/LeetcodeSolutionPython/.idea/leetcode-python-master.iml" />
     </modules>
   </component>
 </project>
