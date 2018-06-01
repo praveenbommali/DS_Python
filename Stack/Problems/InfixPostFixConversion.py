@@ -35,6 +35,7 @@ class InfixPostFixConvImpl(object):
     def isEmpty(self):
         return self.top != -1
 
+    # Infix to postfix conversion
     def infix_postfix_conv(self, expression):
 
         # Iterating over the expression characters
