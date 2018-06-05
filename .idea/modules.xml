@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Documents/DS_STUFF/Data-Structures-using-Python-master/.idea/Data-Structures-using-Python-master.iml" filepath="$USER_HOME$/Documents/DS_STUFF/Data-Structures-using-Python-master/.idea/Data-Structures-using-Python-master.iml" />
+      <module fileurl="file://$USER_HOME$/LeetCodeSolutions/.idea/LeetCodeSolutions.iml" filepath="$USER_HOME$/LeetCodeSolutions/.idea/LeetCodeSolutions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MachineLearning.iml" filepath="$PROJECT_DIR$/.idea/MachineLearning.iml" />
       <module fileurl="file://$USER_HOME$/Documents/DS_STUFF/LeetcodeSolutionPython/.idea/leetcode-python-master.iml" filepath="$USER_HOME$/Documents/DS_STUFF/LeetcodeSolutionPython/.idea/leetcode-python-master.iml" />
     </modules>
